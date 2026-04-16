@@ -5,21 +5,7 @@
 html {
   font-size: 16.5px;
 }
-.text-xs {
-  font-size: 0.9rem
-}
 
-.text-sm {
-  font-size: 1.05rem 
-}
-
-.text-white\/20 {
-  color: rgba(255,255,255,0.6) 
-}
-
-.text-white\/25 {
-  color: rgba(255,255,255,0.65) 
-}
 @layer base {
   :root {
     --background: 0 0% 0%;
