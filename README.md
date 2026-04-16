@@ -14,7 +14,7 @@ Instead of a traditional website, the application is built as a guided journey t
 
 ## Live
 
-https://your-live-site-url.com
+https://dubai-mall-one.vercel.app/
 
 ---
 
